@@ -1,77 +1,19 @@
 \\ The cuspidal group C1(p) for 11<p<600
+\\ we present our groups as [a_1,...a_n] = Z/a1Z x ... x Z/a_nZ
 
 
-<\
-    13,\
-\
-    Abelian Group isomorphic to Z/19 + Z/19\
-    Defined on 2 generators\
-    Relations:\
-        19*CS.1 = 0\
-        19*CS.2 = 0\
->\
-<\
-    17,\
-\
-    Abelian Group isomorphic to Z/292 + Z/1168\
-    Defined on 2 generators\
-    Relations:\
-        292*CS.1 = 0\
-        1168*CS.2 = 0\
->\
-<\
-    19,\
-\
-    Abelian Group isomorphic to Z/1461 + Z/13149\
-    Defined on 2 generators\
-    Relations:\
-        1461*CS.1 = 0\
-        13149*CS.2 = 0\
->\
-<\
-    23,\
-\
-    Abelian Group isomorphic to Z/37181 + Z/4498901\
-    Defined on 2 generators\
-    Relations:\
-        37181*CS.1 = 0\
-        4498901*CS.2 = 0\
->\
-<\
-    29,\
-\
-    Abelian Group isomorphic to Z/4 + Z/4 + Z/4 + Z/4 + Z/9203892 + Z/450990708\
-    Defined on 6 generators\
-    Relations:\
-        4*CS.1 = 0\
-        4*CS.2 = 0\
-        4*CS.3 = 0\
-        4*CS.4 = 0\
-        9203892*CS.5 = 0\
-        450990708*CS.6 = 0\
->\
-<\
-    31,\
-\
-    Abelian Group isomorphic to Z/2 + Z/10 + Z/1772833370 + Z/8864166850\
-    Defined on 4 generators\
-    Relations:\
-        2*CS.1 = 0\
-        10*CS.2 = 0\
-        1772833370*CS.3 = 0\
-        8864166850*CS.4 = 0\
->\
-<\
-    37,\
-\
-    Abelian Group isomorphic to Z/53505562232535 + Z/481550060092815\
-    Defined on 2 generators\
-    Relations:\
-        53505562232535*CS.1 = 0\
-        481550060092815*CS.2 = 0\
->\
-<\
-    41,\
+p  |                        C1(p)
+-----------------------------------------------------------------------------------------------------------------------------------------
+13   [19,19]
+17   [292,1168]
+19   [1461, 13149]
+23   [37181, 4498901]
+29   [4,4,4,4,9203892,450990708]
+31  [2, 10, 1772833370, 8864166850]
+37  [53505562232535,481550060092815] 
+
+
+41,\
 \
     Abelian Group isomorphic to Z/21553759881619888 + Z/538843997040497200\
     Defined on 2 generators\
