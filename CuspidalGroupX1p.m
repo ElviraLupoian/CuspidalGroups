@@ -105,7 +105,7 @@ Ords2 := [ [ Integers() ! a : a in b ] : b in Ords2 ];
 rel2 := [ &+[a[i]*Z.i : i in [1..p-1] ] : a in Ords2 ];
 rel := rel1 cat rel2;
 
-CS := quo< T | rel >;
+CS,pi := quo< T | rel >;
 <p, CS>;
 end for ;
 
